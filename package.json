@@ -1,0 +1,14 @@
+{
+  "name": "cool-wasm-proj",
+  "collaborators": [
+    "white-mice <vikramvdurai@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "cool_wasm_proj_bg.wasm",
+    "cool_wasm_proj.js",
+    "cool_wasm_proj.d.ts"
+  ],
+  "browser": "cool_wasm_proj.js",
+  "types": "cool_wasm_proj.d.ts"
+}
